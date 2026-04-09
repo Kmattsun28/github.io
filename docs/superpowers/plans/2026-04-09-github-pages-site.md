@@ -493,9 +493,9 @@ al-folioには `deploy.yml` が含まれている。`on: push: branches: [main]`
 
 - [ ] **Step 2: GitHubリポジトリの設定を確認（手動操作）**
 
-ブラウザで `https://github.com/Kmattsun28/Kmattsun28.github.io/settings/pages` を開く：
-- Source: **GitHub Actions** を選択（Deploy from a branch ではなく）
-- 保存する
+ブラウザで `https://github.com/Kmattsun28/github.io/settings/pages` を開く：
+- Source: **Deploy from a branch** を選択
+- Branch: `gh-pages` と `/ (root)` を選択し、Saveする
 
 - [ ] **Step 3: 最終プッシュ**
 
