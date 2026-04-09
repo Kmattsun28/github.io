@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kmattsun28.github.io/sitemap.xml
+Sitemap: https://kmattsun28.github.io/github.io/sitemap.xml
