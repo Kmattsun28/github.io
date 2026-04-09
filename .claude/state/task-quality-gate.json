@@ -1,0 +1,42 @@
+{
+  "1": {
+    "failure_count": 0,
+    "last_action": "reset",
+    "updated_at": "2026-04-09T09:37:36Z"
+  },
+  "2": {
+    "failure_count": 0,
+    "last_action": "reset",
+    "updated_at": "2026-04-09T09:38:48Z"
+  },
+  "3": {
+    "failure_count": 0,
+    "last_action": "reset",
+    "updated_at": "2026-04-09T09:43:54Z"
+  },
+  "4": {
+    "failure_count": 0,
+    "last_action": "reset",
+    "updated_at": "2026-04-09T09:43:55Z"
+  },
+  "5": {
+    "failure_count": 0,
+    "last_action": "reset",
+    "updated_at": "2026-04-09T09:48:46Z"
+  },
+  "6": {
+    "failure_count": 0,
+    "last_action": "reset",
+    "updated_at": "2026-04-09T09:49:17Z"
+  },
+  "7": {
+    "failure_count": 0,
+    "last_action": "reset",
+    "updated_at": "2026-04-09T09:52:44Z"
+  },
+  "8": {
+    "failure_count": 0,
+    "last_action": "reset",
+    "updated_at": "2026-04-09T09:55:09Z"
+  }
+}
