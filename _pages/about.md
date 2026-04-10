@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="#">Affiliation Name</a>. Department, University.
+subtitle: Graduate School of Engineering, Nagoya University
 
 profile:
   align: right
@@ -17,3 +17,11 @@ social: true
 nav: true
 nav_order: 1
 ---
+
+I am a first-year Master's student in the Department of Information and Communication Engineering at the Graduate School of Engineering, Nagoya University.
+
+My research interests include Human-Computer Interaction (HCI), recommender systems, and intercultural communication.
+
+## Hobbies
+
+Soccer, skiing, and traveling abroad.

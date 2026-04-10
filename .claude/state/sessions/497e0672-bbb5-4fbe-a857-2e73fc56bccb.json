@@ -1,0 +1,40 @@
+{
+  "session_id": "497e0672-bbb5-4fbe-a857-2e73fc56bccb",
+  "parent_session_id": null,
+  "state": "stopped",
+  "state_version": 1,
+  "started_at": "2026-04-09T09:34:52Z",
+  "updated_at": "2026-04-10T05:30:08Z",
+  "resume_token": "07413b72-8803-4a8d-9d74-35cdbb1288c6",
+  "event_seq": 3,
+  "last_event_id": "event-000003",
+  "fork_count": 0,
+  "orchestration": {
+    "max_state_retries": 3,
+    "retry_backoff_seconds": 10
+  },
+  "cwd": "/Users/kmattsun/Documents/Workspace/Kmattsun28.github.io",
+  "project_name": "Kmattsun28.github.io",
+  "prompt_seq": 35,
+  "git": {
+    "branch": "main",
+    "uncommitted_changes": 2,
+    "last_commit": "22b6b63"
+  },
+  "plans": {
+    "exists": false,
+    "last_modified": 0,
+    "wip_tasks": 0,
+    "todo_tasks": 0,
+    "pending_tasks": 0,
+    "completed_tasks": 0
+  },
+  "changes_this_session": [],
+  "intent": "semantic",
+  "resumed_at": "2026-04-10T05:27:48Z",
+  "last_message_length": 783,
+  "last_message_hash": "4d7c2fbbc6f42b4f",
+  "ended_at": "2026-04-10T05:30:08Z",
+  "duration_minutes": 1735,
+  "memory_logged": true
+}
