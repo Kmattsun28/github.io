@@ -20,8 +20,14 @@ nav_order: 1
 
 I am a first-year Master's student in the Department of Information and Communication Engineering at the Graduate School of Engineering, Nagoya University.
 
-My research interests include Human-Computer Interaction (HCI), recommender systems, and intercultural communication.
+## Research Interests
+
+- Human-Computer Interaction (HCI)
+- Recommender Systems
+- Intercultural Communication
 
 ## Hobbies
 
-Soccer, skiing, and traveling abroad.
+- Soccer
+- Skiing
+- Traveling abroad
