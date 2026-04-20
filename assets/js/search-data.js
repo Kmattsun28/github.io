@@ -100,14 +100,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/your-linkedin-id", "_blank");
+          window.open("https://www.linkedin.com/in/kohei-matsumoto-67ab7a3a2", "_blank");
         },
       },{
         id: 'social-instagram',
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/your_instagram", "_blank");
+          window.open("https://instagram.com/kohei_mattsun28", "_blank");
         },
       },{
       id: 'light-theme',
