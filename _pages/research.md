@@ -7,19 +7,17 @@ nav: true
 nav_order: 4
 ---
 
-## Research Theme 1
+## Metaverse Tourism System: MetaUniTour
 
-Write 2–3 paragraphs describing your first research theme here.
-This section is written in Markdown — just edit this file to update content.
+<img src="/assets/img/research1_overview_en.png" alt="MetaUniTour overview" style="max-width:100%; margin-bottom:1rem;">
 
-**Related publications:**
-- [Paper Title 1](/publications/)
-
----
-
-## Research Theme 2
-
-Write 2–3 paragraphs describing your second research theme here.
+- Addressed key challenges in conventional metaverse tourism: **experience disparity**, **lack of social interaction**, and **high participation barriers**
+- Designed a **cultural fusion space** that blends the cultural backgrounds of both guides and participants
+- Realized **semi-structured collaborative experiences** balancing individual exploration with cooperative activities
+- Adopted a **browser-based design** requiring no dedicated hardware to lower participation barriers
+- Conducted a pilot experiment connecting Higashiyama Zoo (Nagoya) and Kenya with **3,615 participants**
+  - Over 90% reported increased interest in animals and other cultures
+  - Over 70% experienced a sense of unity with others
 
 **Related publications:**
-- [Paper Title 2](/publications/)
+- [MetaUniTour: Enhancing Engagement and Intercultural Understanding through A Metaverse Tourism Platform](/publications/)
