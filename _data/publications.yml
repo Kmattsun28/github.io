@@ -6,3 +6,9 @@
 #   venue:   Conference or journal name (required)
 #   year:    Publication year as integer (required)
 #   url:     Link to paper (optional - arXiv, DOI, project page, etc.)
+
+- title: "MetaUniTour: Enhancing Engagement and Intercultural Understanding through A Metaverse Tourism Platform"
+  authors: "Kohei Matsumoto, Yoshiki Watanabe, Kaiya Shimura, Nozomi Hayashida, Shin Katayama, Kenta Urano, Nobuo Kawaguchi, Emanuel Leleito, Aoki Soko, Takuro Yonezawa"
+  venue: "IEEE International Conference on Metaverse Computing, Networking, and Applications (MetaCom 2025)"
+  year: 2025
+  url: "https://db.uclab.jp/show/1546"
