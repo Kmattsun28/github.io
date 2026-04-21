@@ -15,7 +15,7 @@
   },
   "cwd": "/home/mattsun/workspace/github.io",
   "project_name": "github.io",
-  "prompt_seq": 2,
+  "prompt_seq": 14,
   "git": {
     "branch": "main",
     "uncommitted_changes": 0,
@@ -30,5 +30,5 @@
     "completed_tasks": 0
   },
   "changes_this_session": [],
-  "intent": "semantic"
+  "intent": "literal"
 }
